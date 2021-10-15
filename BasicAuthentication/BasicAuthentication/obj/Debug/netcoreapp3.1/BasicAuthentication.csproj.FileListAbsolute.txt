@@ -1,0 +1,15 @@
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.csproj.AssemblyReference.cache
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.AssemblyInfoInputs.cache
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.AssemblyInfo.cs
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.csproj.CoreCompileInputs.cache
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BasicAuthentication.exe
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BasicAuthentication.deps.json
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BasicAuthentication.runtimeconfig.json
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BasicAuthentication.runtimeconfig.dev.json
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BasicAuthentication.dll
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BasicAuthentication.pdb
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.dll
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.pdb
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\obj\Debug\netcoreapp3.1\BasicAuthentication.genruntimeconfig.cache
+D:\MII\Programming1\BasicAuthentication\BasicAuthentication\BasicAuthentication\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aAma2iyJd7B47OqCTQxxVCudXmoDbvgo0Lo5qFLueCiXh2zVhOPAjGy1pmLtH11ldMfpMIMqNsqiruoaSwR9g==",
+  "success": true,
+  "projectFilePath": "D:\\MII\\Programming1\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication\\BasicAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
